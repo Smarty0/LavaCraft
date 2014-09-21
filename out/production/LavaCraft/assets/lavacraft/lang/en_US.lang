@@ -1,0 +1,22 @@
+# ITEMS
+item.lavacraft:LavaStone.name=LavaStone
+item.lavacraft:SolidifiedLava.name=SolidifiedLava
+item.lavacraft:ExtractedIron.name=ExtractedIron
+item.lavacraft:ExtractedGold.name=ExtractedGold
+item.lavacraft:ExtractedCopper.name=ExtractedCopper
+item.lavacraft:ExtractedTin.name=ExtractedTin
+item.lavacraft:ExtractedSilver.name=ExtractedSilver
+item.lavacraft:ExtractedLead.name=ExtractedLead
+item.lavacraft:ExtractedNickel.name=ExtractedNickel
+
+# BLOCKS
+tile.lavacraft:LavaStoneBlock.name=LavaStoneBlock
+tile.lavacraft:Lavastonebricks.name=Lavastonebricks
+
+# CREATIVE TABS
+itemGroup.lavacraft=LavaCraft
+
+# KEYS
+keys.lavacraft.category= LavaCraft
+keys.lavacraft.charge=Charge
+keys.lavacraft.release=Release
