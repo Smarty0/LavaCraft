@@ -15,6 +15,7 @@ public class ModItems {
     public static final ItemLC ExtractedSilver = new ItemExtractedSilver();
     public static final ItemLC ExtractedLead = new ItemExtractedLead();
     public static final ItemLC ExtractedNickel = new ItemExtractedNickel();
+    public static final ItemLC ExtractedPlatinum = new ItemExtractedPlatinum();
 
     public static void init() {
         GameRegistry.registerItem(LavaStone, "LavaStone");
@@ -26,6 +27,7 @@ public class ModItems {
         GameRegistry.registerItem(ExtractedSilver, "ExtractedSilver");
         GameRegistry.registerItem(ExtractedLead, "ExtractedLead");
         GameRegistry.registerItem(ExtractedNickel, "ExtractedNickel");
+        GameRegistry.registerItem(ExtractedPlatinum, "ExtractedPlatinum");
     }
 
 }

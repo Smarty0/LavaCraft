@@ -11,3 +11,5 @@ public class ItemExtractedLead extends ItemLC
         this.setCreativeTab(CreativeTabLC.LC_TAB);
     }
 }
+
+// Still missing texture

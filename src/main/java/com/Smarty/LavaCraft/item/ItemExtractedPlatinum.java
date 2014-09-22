@@ -2,15 +2,14 @@ package com.Smarty.LavaCraft.item;
 
 import com.Smarty.LavaCraft.creativetab.CreativeTabLC;
 
-public class ItemExtractedTin extends ItemLC
+public class ItemExtractedPlatinum extends ItemLC
 {
-    public ItemExtractedTin()
+    public ItemExtractedPlatinum()
     {
         super();
-        this.setUnlocalizedName("ExtractedTin");
+        this.setUnlocalizedName("ExtractedPlatinum");
         this.setCreativeTab(CreativeTabLC.LC_TAB);
     }
 }
-
 
 // Still missing texture
